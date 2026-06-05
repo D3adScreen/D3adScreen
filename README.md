@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25px" align="center" /> Contact me at <a href="mailto:francisco.coutinho.rodrigues@gmail.com"><strong>francisco.coutinho.rodrigues@gmail.com</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal" width="25px" align="center" /> Currently focused on <strong>Full Stack</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal" width="25px" align="center" /> Currently focused on <strong>Full Stack Developer</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25px" align="center" /> Passionate about transforming complex logic into clean and fluid user experiences.
